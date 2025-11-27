@@ -284,7 +284,9 @@ async function startTracker(){
 I give This Example for you to Learn This guide
 If you want see the guide go onto:
 - guide.html
+-------------
 Final Credits:
 © Powered By TimerCode Corp.
 ® Created By TadeoCreator
 © Repo Created On Github
+-------------
