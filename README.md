@@ -4,4 +4,9 @@ Our TimerCode Purposes is make or show how to you make a example from how and wh
 # Guide MD
 To Create a santa tracker first use a api key example:
 ```
-https://wwww.mysanta.site/YOUR_API_KEY
+https://wwww.mysanta.site/YOUR_API_KEY123
+```
+Example guide:
+```
+<!DOCTYPE html>
+<script defer apikey npm="https://www.mysanta.site/YOURAPIKEY123">
